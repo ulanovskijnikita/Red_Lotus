@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Red Lotus</string>
+
+<!--  HelloActivity  -->
+    <string name="hello">Привет</string>
+    <string name="greeting">Наслаждайся учебой\nБудь внимателен\nДелай хорошо</string>
+    <string name="log_in_account">войти в аккаунт</string>
+    <string name="sign_in">Наслаждайся учебой\nБудь внимателен\nДелай хорошо</string>
+    <string name="no_account">Еще нет аккаунта?</string>
+    <string name="register">Зарегистрируйтесь</string>
+
+<!--  RegActivity  -->
+    <string name="registration">Регистрaция</string>
+    <string name="sign_up">Зарегистрироваться</string>
+
+
+</resources>
