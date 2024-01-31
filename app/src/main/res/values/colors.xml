@@ -2,4 +2,12 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="accent">#9F2885</color>
+    <color name="toolbar">#661C56</color>
+    <color name="bottom_nav">#472F45</color>
+    <color name="icon">#DADADA</color>
+    <color name="form">#80E1D3F9</color>
+    <color name="bg">#14162b</color>
+    <color name="title">#F5E9ED</color>
+    <color name="subtitle">#EBC6D2</color>
 </resources>
